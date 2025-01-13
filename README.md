@@ -1,4 +1,4 @@
-```markdown
+
 # Sistema de Cadastro de Usuários
 
 Uma API RESTful desenvolvida em **Spring Boot** para gerenciar usuários. Este sistema permite adicionar, editar, listar e excluir usuários, integração com banco de dados.
